@@ -1,7 +1,7 @@
 # **Uber Analysis** :car:
 
 ## Introduction
-- This document will provide a data dictionary, describe the data prepartion process, and provide analysis through visualization for six months of data (Apr-Sep 2014) collected from uber trips in the greater New York area.
+- This document will provide a data dictionary, describe the data preparation process, and provide analysis through visualization for six months of data (Apr-Sep 2014) collected from uber trips in the greater New York area.
 ---
 ## Data Dictionary :orange_book:
 The columns within the initial datasets include the following:
