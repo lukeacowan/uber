@@ -11,7 +11,7 @@ library(tidyverse)
 
 rm(list = ls())
 
-#setwd("C:/Users/lukec/OneDrive/Documents/data332/uber_project/pivot_tables")
+#setwd("C:/Users/lukec/OneDrive/Documents/data332/uber/uber_project/pivot_tables")
 
 # reading in pivot tables
 trips_by_base_day_of_week <- read.csv("trips_by_base_day_of_week.csv")
