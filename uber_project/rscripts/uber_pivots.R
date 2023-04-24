@@ -39,7 +39,7 @@ all_data$second <- lubridate::second(all_data$date_time)
 all_data$weekday <- lubridate::wday(all_data$date_time, label=TRUE)
 all_data$week <- ceiling(all_data$day / 7)
 
-# making new column for names of months to show month names in the
+# making new column for names of months to show month names in the legends
 all_data <- all_data %>%
   mutate(month_name = month.name[month])
 
